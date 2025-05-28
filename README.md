@@ -10,9 +10,14 @@ User-Friendly Interface: Clean and intuitive UI for seamless user experience.
 Cross-Platform Compatibility: Works across Android, iOS, Web, Windows, macOS, and Linux.
 
 📸 Screenshots
+
+
 ![Screenshot 2025-05-28 223948](https://github.com/user-attachments/assets/f6683fbc-05e7-414d-b0c2-d2853aaf90aa)|![Screenshot 2025-05-28 224013](https://github.com/user-attachments/assets/8da83c0b-f083-4562-b29e-c1693dc0eec6)
 
+
+
 ⚙️ Tech Stack
+
 Frontend: Flutter
 
 State Management: Provider (or any other state management solution you prefer)
