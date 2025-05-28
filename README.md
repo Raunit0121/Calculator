@@ -40,37 +40,37 @@ A simple, responsive, and cross-platform calculator app built with **Flutter**. 
 
 ### Installation
 
-1. Clone this repository:
+  1.Clone this repository:
 
-git clone https://github.com/Raunit0121/Calculator.git
-cd Calculator
+    git clone https://github.com/Raunit0121/Calculator.git
+    cd Calculator
 
-2.Get the dependencies:
+  2.Get the dependencies:
 
-flutter pub get
+    flutter pub get
 
-3.Run the app:
+  3.Run the app:
 
-flutter run
+    flutter run
 
 
 🤝 Contributing
 
-Want to improve this app? Contributions are welcome!
+    Want to improve this app? Contributions are welcome!
 
-Fork the repo
+    Fork the repo
 
-Create a new branch: git checkout -b feature-name
+    Create a new branch: git checkout -b feature-name
 
-Commit your changes: git commit -m "Add feature"
+    Commit your changes: git commit -m "Add feature"
 
-Push to the branch: git push origin feature-name
+    Push to the branch: git push origin feature-name
 
-Submit a Pull Request
+    Submit a Pull Request
 
 
 🙋‍♂️ Author
-GitHub: Raunit0121
+    GitHub: Raunit0121
 
 
 
