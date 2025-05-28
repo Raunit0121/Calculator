@@ -1,64 +1,77 @@
-🧮 Calculator App
+# 🧮 Calculator App
 
-A simple, elegant, and fully functional calculator application built using Flutter. This app supports basic arithmetic operations and is optimized for both mobile and web platforms.
+A simple, responsive, and cross-platform calculator app built with **Flutter**. This application performs basic arithmetic operations with a clean and intuitive UI.
 
-🚀 Features
+---
 
-Basic Operations: Addition, subtraction, multiplication, and division.
-Responsive Design: Optimized for both mobile and web interfaces.
-User-Friendly Interface: Clean and intuitive UI for seamless user experience.
-Cross-Platform Compatibility: Works across Android, iOS, Web, Windows, macOS, and Linux.
+## ✨ Features
 
-📸 Screenshots
+- ➕ Addition
+- ➖ Subtraction
+- ✖️ Multiplication
+- ➗ Division
+- 📱 Responsive layout for different screen sizes
+- 💻 Runs on Android, iOS, Web, and Desktop
 
+---
+
+## 📸 Screenshots
 
 ![Screenshot 2025-05-28 223948](https://github.com/user-attachments/assets/f6683fbc-05e7-414d-b0c2-d2853aaf90aa)|![Screenshot 2025-05-28 224013](https://github.com/user-attachments/assets/8da83c0b-f083-4562-b29e-c1693dc0eec6)
 
 
+---
 
-⚙️ Tech Stack
+## 🛠️ Tech Stack
 
-Frontend: Flutter
+- **Language**: Dart
+- **Framework**: Flutter
+- **IDE**: VS Code / Android Studio
 
-State Management: Provider (or any other state management solution you prefer)
+---
 
-Build Tools: Flutter SDK
+## 🚀 Getting Started
 
-📦 Installation
-Prerequisites
-Ensure you have the following installed:
+### Prerequisites
 
-Flutter SDK
+- Flutter SDK installed ([Install Guide](https://docs.flutter.dev/get-started/install))
+- Dart SDK
+- IDE (VS Code or Android Studio with Flutter & Dart plugins)
 
-Dart SDK
+### Installation
 
-An IDE like Android Studio or VS Code with Flutter and Dart plugins
-
-Steps
-Clone the repository:
+1. Clone this repository:
 
 git clone https://github.com/Raunit0121/Calculator.git
 cd Calculator
-Install dependencies:
+
+2.Get the dependencies:
+
 flutter pub get
-Run the application:
+
+3.Run the app:
+
 flutter run
 
-🧪 Testing
-To run tests:
-flutter test
-Ensure you have written unit and widget tests to validate your app's functionality.
 
 🤝 Contributing
-Contributions are welcome! Please fork the repository, create a new branch, and submit a pull request with your proposed changes.
 
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+Want to improve this app? Contributions are welcome!
 
-📬 Contact
-For any inquiries or feedback, please reach out to:
+Fork the repo
 
-GitHub: @Raunit0121
+Create a new branch: git checkout -b feature-name
 
-Email: your-email@example.com
+Commit your changes: git commit -m "Add feature"
+
+Push to the branch: git push origin feature-name
+
+Submit a Pull Request
+
+
+🙋‍♂️ Author
+GitHub: Raunit0121
+
+
+
 
